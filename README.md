@@ -1,26 +1,3 @@
-I test my markdown format here
+<!--This is a comment. Comments are not displayed in the browser-->
 
-**Bold**
-
-AAA
-===
-
-AAA
----
-
-
-AAA
-
-===
-
-AAA
-
----
-
-# is this a comment?
-
-
-
-
-
-
+Test
